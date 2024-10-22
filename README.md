@@ -24,7 +24,9 @@ We call a number sus if it has exactly 3 or 4 factors, including 1 and the numbe
   - Example 3: A player has 49 points and rolls 5 dice that total 18 points. Their new score would be 67, which is prime and has 2 factors: 1 and 67. Since 67 is not sus, the score of the player is unchanged.
 
 # How to start the game:
+```
 python3 hog_gui.py
+```
 
 (Source: cs61a Fall 2024)
 
